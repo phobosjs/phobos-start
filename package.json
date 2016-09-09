@@ -1,0 +1,23 @@
+{
+  "name": "phobosjs-start",
+  "version": "1.0.0",
+  "description": "A brand spanking new Phobos.js project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.0",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "method-override": "^2.3.6",
+    "mongoose": "^4.6.0",
+    "morgan": "^1.7.0",
+    "phobosjs": "^1.2.6",
+    "response-time": "^2.3.1"
+  }
+}
